@@ -1,0 +1,10 @@
+{
+  "model_version": "v20261101-162420",
+  "accuracy": 1.0,
+  "best_ngram_range": [
+    1,
+    2
+  ],
+  "n_products": 36,
+  "n_test_queries": 216
+}

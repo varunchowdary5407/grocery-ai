@@ -1,0 +1,6 @@
+__pycache__/
+mlruns/
+.ipynb_checkpoints/
+data/query_log.csv
+.pytest_cache/
+mlflow.db

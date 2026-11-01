@@ -1,0 +1,145 @@
+product,category,unit,store,price
+rice,Grains,kg,FreshMart,58.95
+rice,Grains,kg,BudgetBazaar,58.68
+rice,Grains,kg,SuperSaver,59.47
+rice,Grains,kg,QuickCart,65.7
+wheat flour,Grains,kg,FreshMart,42.83
+wheat flour,Grains,kg,BudgetBazaar,39.41
+wheat flour,Grains,kg,SuperSaver,40.53
+wheat flour,Grains,kg,QuickCart,51.09
+oats,Grains,kg,FreshMart,152.12
+oats,Grains,kg,BudgetBazaar,142.02
+oats,Grains,kg,SuperSaver,134.33
+oats,Grains,kg,QuickCart,172.66
+milk,Dairy,litre,FreshMart,58.61
+milk,Dairy,litre,BudgetBazaar,49.45
+milk,Dairy,litre,SuperSaver,51.37
+milk,Dairy,litre,QuickCart,57.8
+curd,Dairy,kg,FreshMart,68.08
+curd,Dairy,kg,BudgetBazaar,64.62
+curd,Dairy,kg,SuperSaver,66.56
+curd,Dairy,kg,QuickCart,73.39
+butter,Dairy,pack,FreshMart,58.91
+butter,Dairy,pack,BudgetBazaar,50.67
+butter,Dairy,pack,SuperSaver,54.06
+butter,Dairy,pack,QuickCart,61.47
+cheese,Dairy,pack,FreshMart,119.26
+cheese,Dairy,pack,BudgetBazaar,114.81
+cheese,Dairy,pack,SuperSaver,110.36
+cheese,Dairy,pack,QuickCart,129.86
+paneer,Dairy,pack,FreshMart,91.16
+paneer,Dairy,pack,BudgetBazaar,77.54
+paneer,Dairy,pack,SuperSaver,87.7
+paneer,Dairy,pack,QuickCart,92.72
+eggs,Protein,dozen,FreshMart,78.89
+eggs,Protein,dozen,BudgetBazaar,82.14
+eggs,Protein,dozen,SuperSaver,85.9
+eggs,Protein,dozen,QuickCart,94.64
+chicken,Protein,kg,FreshMart,213.98
+chicken,Protein,kg,BudgetBazaar,191.0
+chicken,Protein,kg,SuperSaver,216.65
+chicken,Protein,kg,QuickCart,235.61
+fish,Protein,kg,FreshMart,331.48
+fish,Protein,kg,BudgetBazaar,321.78
+fish,Protein,kg,SuperSaver,314.1
+fish,Protein,kg,QuickCart,399.66
+tomato,Vegetables,kg,FreshMart,28.99
+tomato,Vegetables,kg,BudgetBazaar,28.23
+tomato,Vegetables,kg,SuperSaver,28.04
+tomato,Vegetables,kg,QuickCart,32.49
+onion,Vegetables,kg,FreshMart,35.23
+onion,Vegetables,kg,BudgetBazaar,30.78
+onion,Vegetables,kg,SuperSaver,35.81
+onion,Vegetables,kg,QuickCart,39.26
+potato,Vegetables,kg,FreshMart,29.72
+potato,Vegetables,kg,BudgetBazaar,27.18
+potato,Vegetables,kg,SuperSaver,27.25
+potato,Vegetables,kg,QuickCart,32.03
+carrot,Vegetables,kg,FreshMart,42.41
+carrot,Vegetables,kg,BudgetBazaar,39.64
+carrot,Vegetables,kg,SuperSaver,40.45
+carrot,Vegetables,kg,QuickCart,47.41
+spinach,Vegetables,bunch,FreshMart,19.69
+spinach,Vegetables,bunch,BudgetBazaar,17.81
+spinach,Vegetables,bunch,SuperSaver,20.08
+spinach,Vegetables,bunch,QuickCart,21.17
+cauliflower,Vegetables,kg,FreshMart,38.77
+cauliflower,Vegetables,kg,BudgetBazaar,37.02
+cauliflower,Vegetables,kg,SuperSaver,36.47
+cauliflower,Vegetables,kg,QuickCart,45.03
+banana,Fruits,dozen,FreshMart,47.02
+banana,Fruits,dozen,BudgetBazaar,49.14
+banana,Fruits,dozen,SuperSaver,49.83
+banana,Fruits,dozen,QuickCart,51.72
+apple,Fruits,kg,FreshMart,148.92
+apple,Fruits,kg,BudgetBazaar,153.7
+apple,Fruits,kg,SuperSaver,158.05
+apple,Fruits,kg,QuickCart,178.34
+orange,Fruits,kg,FreshMart,93.42
+orange,Fruits,kg,BudgetBazaar,77.86
+orange,Fruits,kg,SuperSaver,84.69
+orange,Fruits,kg,QuickCart,91.97
+mango,Fruits,kg,FreshMart,126.1
+mango,Fruits,kg,BudgetBazaar,112.31
+mango,Fruits,kg,SuperSaver,112.47
+mango,Fruits,kg,QuickCart,121.68
+grapes,Fruits,kg,FreshMart,107.09
+grapes,Fruits,kg,BudgetBazaar,98.72
+grapes,Fruits,kg,SuperSaver,108.99
+grapes,Fruits,kg,QuickCart,121.09
+sugar,Essentials,kg,FreshMart,47.44
+sugar,Essentials,kg,BudgetBazaar,41.24
+sugar,Essentials,kg,SuperSaver,40.9
+sugar,Essentials,kg,QuickCart,50.05
+salt,Essentials,kg,FreshMart,20.73
+salt,Essentials,kg,BudgetBazaar,18.56
+salt,Essentials,kg,SuperSaver,19.93
+salt,Essentials,kg,QuickCart,21.58
+cooking oil,Essentials,litre,FreshMart,140.45
+cooking oil,Essentials,litre,BudgetBazaar,127.49
+cooking oil,Essentials,litre,SuperSaver,125.47
+cooking oil,Essentials,litre,QuickCart,142.9
+tea powder,Essentials,pack,FreshMart,102.78
+tea powder,Essentials,pack,BudgetBazaar,103.13
+tea powder,Essentials,pack,SuperSaver,102.86
+tea powder,Essentials,pack,QuickCart,118.94
+coffee,Essentials,pack,FreshMart,190.27
+coffee,Essentials,pack,BudgetBazaar,159.79
+coffee,Essentials,pack,SuperSaver,170.63
+coffee,Essentials,pack,QuickCart,201.36
+toor dal,Pulses,kg,FreshMart,144.3
+toor dal,Pulses,kg,BudgetBazaar,129.83
+toor dal,Pulses,kg,SuperSaver,139.76
+toor dal,Pulses,kg,QuickCart,154.32
+moong dal,Pulses,kg,FreshMart,137.82
+moong dal,Pulses,kg,BudgetBazaar,124.76
+moong dal,Pulses,kg,SuperSaver,127.13
+moong dal,Pulses,kg,QuickCart,147.7
+chickpeas,Pulses,kg,FreshMart,114.68
+chickpeas,Pulses,kg,BudgetBazaar,96.76
+chickpeas,Pulses,kg,SuperSaver,111.4
+chickpeas,Pulses,kg,QuickCart,119.45
+bread,Bakery,pack,FreshMart,41.72
+bread,Bakery,pack,BudgetBazaar,38.84
+bread,Bakery,pack,SuperSaver,37.42
+bread,Bakery,pack,QuickCart,40.84
+biscuits,Snacks,pack,FreshMart,28.86
+biscuits,Snacks,pack,BudgetBazaar,27.32
+biscuits,Snacks,pack,SuperSaver,30.08
+biscuits,Snacks,pack,QuickCart,34.04
+noodles,Snacks,pack,FreshMart,13.96
+noodles,Snacks,pack,BudgetBazaar,13.82
+noodles,Snacks,pack,SuperSaver,14.23
+noodles,Snacks,pack,QuickCart,15.57
+soap,Household,piece,FreshMart,37.87
+soap,Household,piece,BudgetBazaar,35.96
+soap,Household,piece,SuperSaver,40.78
+soap,Household,piece,QuickCart,42.13
+detergent,Household,kg,FreshMart,120.32
+detergent,Household,kg,BudgetBazaar,113.54
+detergent,Household,kg,SuperSaver,113.0
+detergent,Household,kg,QuickCart,138.16
+toothpaste,Household,piece,FreshMart,95.83
+toothpaste,Household,piece,BudgetBazaar,79.92
+toothpaste,Household,piece,SuperSaver,86.37
+toothpaste,Household,piece,QuickCart,94.49
