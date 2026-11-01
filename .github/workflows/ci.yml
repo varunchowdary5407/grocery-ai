@@ -10,20 +10,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install -r requirements-dev.txt
+      - name: Install dependencies
+        run: pip install -r requirements-dev.txt
 
-      - run: python -m src.make_data
+      - name: Generate dataset
+        run: python -m src.make_data
 
-      - run: python -m src.train
+      - name: Train model
+        run: python -m src.train
 
-      - name: Run automated tests
+      - name: Run tests
         run: python -m pytest -q
         env:
-          PYTHONPATH: .
+          PYTHONPATH: ${{ github.workspace }}
 ```

@@ -1,2 +1,1 @@
-
-# Grocery AI project package
+# package marker
